@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm a second-year Computer Science and Engineering undergraduate <br>at the University of Moratuwa. <br>💻 I'm passionate about exploring the world of UI/UX design 🎨, <br>artificial intelligence 🤖, and diving into exciting new technologies 🚀. <br>Always eager to learn, create, and innovate! ✨
+👋 Hi! I'm a second-year Computer Science and Engineering undergraduate at the University of Moratuwa. <br>💻 I'm passionate about exploring the world of UI/UX design 🎨, artificial intelligence 🤖, and diving into exciting new technologies 🚀. <br>Always eager to learn, create, and innovate! ✨
 
 
 ## 🌐 Socials:
